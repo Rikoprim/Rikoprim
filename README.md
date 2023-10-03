@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend Architecture**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/15mXeQ84bRCiHUUQBkiZSY4AayZBUENT4/view?usp=sharing](https://drive.google.com/file/d/15mXeQ84bRCiHUUQBkiZSY4AayZBUENT4/view?usp=sharing)
+- 👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/15mXeQ84bRCiHUUQBkiZSY4AayZBUENT4/view?usp=sharing" target="black"><b>here</b></a>
 
 - 💬 Ask me about **React.js, Vue.js, Nuxt.js**
 
