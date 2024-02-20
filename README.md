@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/11mwLxiLYLzLFI76TWKTMRF7GQ2HvVeuI/view?usp=sharing" target="black"><b>here</b></a>
 
-- 💬 Ask me about **React.js, Next.js Vue.js, Nuxt.js**
+- 💬 Ask me about **React.js, Next.js, Vue.js, Nuxt.js**
 
 - 📫 How to reach me **rikoprimada@gmail.com**
 
